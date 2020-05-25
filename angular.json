@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "poc-local-storage"
+    }
+  },
+  "defaultProject": "poc-local-storage",
+  "cli": {
+    "analytics": false
+  }
 }
